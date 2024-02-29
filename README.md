@@ -20,6 +20,7 @@ I borrowed this list somewhere in a chats.
 - https://www.skillhire.com/talent
 - https://www.codementor.io/
 - https://remoteok.io/
+- https://okjob.io/
 - https://www.workingnomads.co/jobs
 - https://weworkremotely.com/
 - https://www.crossover.com
