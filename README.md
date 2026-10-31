@@ -61,3 +61,4 @@ I borrowed this list somewhere in a chats.
 - https://www.numbrs.com/en-uk/
 - https://www.numbrs.com/en-uk/careers/
 - https://www.nextonlabs.com/
+- https://autojob.org/?remote=true
